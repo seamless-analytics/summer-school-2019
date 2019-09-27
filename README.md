@@ -1,6 +1,16 @@
 # Summer School 2019
 Repository with Hadoop and ML examples for Summer School Workshop 2019
 
+Europäischer Fonds für Regionale Entwicklung  
+![EFRE](EFRE.jpg "EFRE")
+
+interreg Oberrhein / Rhin Supérieur  
+![interreg](interreg.png "interreg")
+
+Upper Rhine 4.0  
+![upper_rhine_40](upper_rhine_40.png "upper_rhine_40")
+
+
 ## Hadoop cluster access
 For the workshop we will use two Hadoop clusters. You can login with following credentials:  
 * Username = *studentX*
